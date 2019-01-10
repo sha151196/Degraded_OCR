@@ -3,7 +3,7 @@ A CNN BLSTM CTC based implementation of Bangla Degraded OCR line recognition. Th
 ## Features
 + Takes Grayscale / Binarized line image
 + No Feature Extraction is required
-+ Generates Encoded groundtruth file for each of the line image
++ Generates Encoded groundtruth file for each of the line image directory.
 ## Requirements
 This model is implemented using
 1. Python 2.7 (maintain this version)
