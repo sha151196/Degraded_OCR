@@ -12,7 +12,7 @@ This model is implemented using
 4. Numpy
 5. Scipy
 ## Usage Instruction
-* Run the **GT_Encode.py** file, t create an encoded groundtruth file for each of image folder, as per the given **mode**, i.e. **Train** and **Test**. Run this for **Train** and **Test** directory seperatley. You need 2 HDF files.
+* Run the **GT_Encode.py** file, t create an encoded groundtruth file for each of image folder, as per the given **mode**, i.e. **Train** and **Test**. Run this for **Train** and **Test** directory seperately. A encoded groundtruth text file will be created for both of the aforementioned directories.
 * A CNN BLSTM CTC based network is implemented as in Figure:
 ![Model][model]
 
