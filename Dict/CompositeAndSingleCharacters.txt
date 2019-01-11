@@ -86,6 +86,9 @@
 \u201c,“,s15
 \u201d,”,s16
 \u2019,’,s17
+\u09f7,৷,s18
+\u30fc,ー,s19
+\u4e00,一,s20
 \u099a \u09cd \u099b \u09cd \u09ac,চ্ছ্ব,cmp1
 \u099c \u09cd \u099c \u09cd \u09ac,জ্জ্ব,cmp2
 \u09a4 \u09cd \u09a4 \u09cd \u09ac,ত্ত্ব,cmp3
